@@ -6,7 +6,7 @@ An initial discussion on the MIR list mentioned:
 
 * MusicXML -> JSON converter(s), which may maintain more or less of the input hierarchy
 
-* Integration with [JAMS](https://github.com/marl/jams JAMS) for the storage and exploitation of annotations such as beats, chords, spectra, tags, etc.
+* Integration with [JAMS](https://github.com/marl/jams) for the storage and exploitation of annotations/features such as beats, chords, spectra, tags, etc.
 
 * Playback (of audio) synced to one or more symbolic representations
 
